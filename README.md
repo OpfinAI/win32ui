@@ -10,3 +10,7 @@ Win32UI is a Windows desktop UI project written in pure C, featuring custom-draw
 ## Building
 
 To build the main application and utilities, use a C compiler (e.g., MSVC or MinGW) on Windows.
+
+## License
+
+MIT License
